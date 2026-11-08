@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9AZzu5KB05ewkotG91naSEASniVagvmK+WmcjNLoH7Q=",
+  "Source": "voca.Api",
+  "BasePath": "_content/voca.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
